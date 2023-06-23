@@ -1,0 +1,62 @@
+.burger {
+    color: white;
+    position: absolute;
+    left: 91%;
+    margin-top: -1%;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+h1 {
+    color: white;
+    display: inline-block;
+    margin-top: 15%;
+    margin-left: 4%;
+    font-size: 60px;
+}
+
+h2 {
+    color: white;
+    margin-left: 4%;
+    font-family: cursive;
+}
+
+.btn {
+    width: 235px;
+    height: 66px;
+    margin-left: 6%;
+    margin-top: 2%;
+    cursor: pointer;
+    border-radius: 40px;
+    background-color: #EFBB35;
+    border: none;
+}
+
+button {
+    font-weight: bold;
+    font-size: larger;
+    font-family: cursive;
+}
+
+.player {
+    margin-left: 1%;
+    color: white;
+    background-color: rgba(25, 37, 61, 1);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 14px;
+    color: white;
+    margin-left: 7%;
+    margin-top: 22px;
+    font-family: monospace;
+}
+
+.island {
+    color: white;
+    margin-left: 52%;
+    margin-top: -47px;
+}

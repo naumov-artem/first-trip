@@ -1,0 +1,9 @@
+git init - создание файла .git
+
+git add -A  - проверка файлов которые читаются 
+
+git commit -m "message" - коментарий к репозиторию
+
+git remote add origin https://github.com/artemiksin/First-rep.git - путь до основного репозитория 
+
+git push -u origin master - заливка на Git-hub
